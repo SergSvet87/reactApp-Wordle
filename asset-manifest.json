@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28dab756.css",
+    "main.js": "/static/js/main.39572e64.js",
+    "static/media/wordle-eng.txt": "/static/media/wordle-eng.9df8bc3d22f077acc986.txt",
+    "index.html": "/index.html",
+    "main.28dab756.css.map": "/static/css/main.28dab756.css.map",
+    "main.39572e64.js.map": "/static/js/main.39572e64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28dab756.css",
+    "static/js/main.39572e64.js"
+  ]
+}
